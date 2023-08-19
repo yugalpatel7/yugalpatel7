@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yugal Patel</h1>
 <h3 align="center">A passionate Cyber Security Analyst and Data Analyst</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yugalpatel7" alt="yugalpatel7" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/yugalpatel7](https://github.com/yugalpatel7)
 
 - 📫 How to reach me **yugalpatel286@gmail.com**
